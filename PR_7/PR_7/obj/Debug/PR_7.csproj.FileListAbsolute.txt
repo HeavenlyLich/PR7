@@ -1,0 +1,12 @@
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\bin\Debug\PR_7.exe.config
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\bin\Debug\PR_7.exe
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\bin\Debug\PR_7.pdb
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\obj\Debug\PR_7.csproj.AssemblyReference.cache
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\obj\Debug\PR_7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\obj\Debug\PR_7.Form1.resources
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\obj\Debug\PR_7.Properties.Resources.resources
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\obj\Debug\PR_7.csproj.GenerateResource.cache
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\obj\Debug\PR_7.csproj.CoreCompileInputs.cache
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\obj\Debug\PR_7.exe
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\obj\Debug\PR_7.pdb
+C:\Users\Heavenly_lich\source\repos\PR_7\PR_7\obj\Debug\PR_7.Form2.resources
